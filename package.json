@@ -10,6 +10,7 @@
   "author": "abhimanyu",
   "license": "MIT",
   "dependencies": {
+    "@material-ui/core": "^4.5.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
